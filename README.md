@@ -1,1 +1,1 @@
-// aku disini dedang belajar cara memaki git yang benar
+// aku disini sedang belajar cara memakai git yang benar
